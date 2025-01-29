@@ -8,8 +8,14 @@
 
 ## About me
 Hi, I'm Aditi. I am a beginner to coding and robotics.
+
+<details>
+<summary>My top Interests</summary>
+
 | Rank | Interest|
 |-----:|---------------|
 |     1|   Math        |
 |     2|   Dance       |
 |     3|   Badminton   |
+|     4|   Piano       |
+</details>
