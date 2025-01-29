@@ -6,7 +6,7 @@
 </picture>
 
 
-##About Me
+## About me
 Hi, I'm Aditi. I am a beginner to coding and robotics.
 | Rank | Interest|
 |-----:|---------------|
