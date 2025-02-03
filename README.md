@@ -7,7 +7,10 @@
 
 
 ## About me
-Hi, I'm Aditi. I am a beginner to coding and robotics.
+Hi, I'm Aditi. I am a middle schooler and a beginner to coding and robotics hoping to expand my understanding of computer science.
+I have various interests in academics, arts, and sports. On top of extracurricular classes, I love archery, reading, and rewatching *Pride and Prejudice*.
+I frequently participate in math competitions such as MathCounts, Berkeley mini Math Tournament, and Mustang Math.
+
 
 <details>
 <summary>My top Interests</summary>
@@ -18,6 +21,7 @@ Hi, I'm Aditi. I am a beginner to coding and robotics.
 |     2|   Dance       |
 |     3|   Badminton   |
 |     4|   Piano       |
+|     5|   Boy Scouts  |
 </details>
 
 ---
